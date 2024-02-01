@@ -1,7 +1,6 @@
 @@ -3,11 +3,14 @@
 For this I created a simple form that allows a user to submit a review for a restaurant. Please build the form to the following specifications:
 
-* The form should submit to the URL `http://kraigh.com/cse104/reviews.php` using the method `post`.
 * The form should have two fieldsets- one for name and email fields, and one for the review fields.
 * All form fields should be properly labeled using one of the two methods learned in class.
 * The form needs the following fields with the specified name:
