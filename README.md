@@ -15,12 +15,11 @@ Upon submitting your form, you should be taken to a page where you can see all r
 Upon submitting your form, you will be taken to a page where you can see all reviews for the restaurant. Before submitting the assignment, ensure that you see your own submissions in the list. Note, the email field will not appear on this page for privacy reasons.
 
 For city guide,
-I created a simple website to act as a guide to your favorite city. Your website should highlight 4-5 of your favorite places in your favorite city. These can include restaurants, parks, museums, activities, or other features you enjoy about the city.
+I created a simple website to act as a guide to your favorite city. The website highlighted 4-5 of your favorite places in your favorite city. These can include restaurants, parks, museums, activities, or other features you enjoy about the city.
 
-For a facebook clone, I created a "clone" of a facebook profile page. Your objective is to re-create the layout, features, and style of the Facebook profile page as closely as possible. It is acceptable to change some details- like the colors and fonts, but the overall look and feel should be as close to Facebook as possible. You can be creative in who you choose as the subject of your profile page- a historical figure, a celebrity, a pet, etc. This page will be purely static- no need to create clickable drop-downs, pop-ups, etc.
+For a facebook clone, I created a "clone" of a facebook profile page. The objective is to re-create the layout, features, and style of the Facebook profile page as closely as possible. It is acceptable to change some details- like the colors and fonts, but the overall look and feel should be as close to Facebook as possible. You can be creative in who you choose as the subject of your profile page- a historical figure, a celebrity, a pet, etc. This page will be purely static- no need to create clickable drop-downs, pop-ups, etc.
 
-﻿﻿Please complete these specific requirements:
-
+﻿﻿This website contains 
 A static (fixed to the top of the window) site header with a logo, search bar, and navigation.
 Cover photo, profile photo, and some navigation buttons.
 Sidebar on the left with "about me" information, photo thumbnails, and friends thumbnails.
@@ -34,4 +33,6 @@ A static sidebar on the right with two ads. (can be ads for anything you like, r
 
 For redesign project, I redesigned the website for one of Washington University's departments or schools. You can find the list of schools about half way down the page and on the left of this page: https://wustl.edu/academics/﻿.
 
-﻿Your goal is to improve the usability, content, and design of the site to make the school more attractive to potential students, and more useful for current students. 
+﻿The goal is to improve the usability, content, and design of the site to make the school more attractive to potential students, and more useful for current students. 
+
+For a personal bio, I added films with javascript.
