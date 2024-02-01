@@ -1,4 +1,4 @@
-@@ -3,11 +3,14 @@
+
 For this I created a simple form that allows a user to submit a review for a restaurant. Please build the form to the following specifications:
 
 * The form should have two fieldsets- one for name and email fields, and one for the review fields.
