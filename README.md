@@ -31,3 +31,7 @@ Like button with some likes
 Add comment form
 A friendly comment or two
 A static sidebar on the right with two ads. (can be ads for anything you like, real or imaginary)
+
+For redesign project, I redesigned the website for one of Washington University's departments or schools. You can find the list of schools about half way down the page and on the left of this page: https://wustl.edu/academics/﻿.
+
+﻿Your goal is to improve the usability, content, and design of the site to make the school more attractive to potential students, and more useful for current students. 
