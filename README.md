@@ -13,3 +13,6 @@ For this I created a simple form that allows a user to submit a review for a res
 
 Upon submitting your form, you should be taken to a page where you can see all reviews for the restaurant. Before submitting the assignment, ensure that you see your own submissions in the list.
 Upon submitting your form, you will be taken to a page where you can see all reviews for the restaurant. Before submitting the assignment, ensure that you see your own submissions in the list. Note, the email field will not appear on this page for privacy reasons.
+
+For city guide,
+I created a simple website to act as a guide to your favorite city. Your website should highlight 4-5 of your favorite places in your favorite city. These can include restaurants, parks, museums, activities, or other features you enjoy about the city.
